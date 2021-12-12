@@ -85,19 +85,53 @@ var randList5 = [
 	"Going out on Smith Street",
 	"Watching the tennis",
 	"Rug-tufting",
+	"Teaching yoga classes",
+	"Riding their bike to work",
+	"Making bread",
+	"Hearing all about your day",
+	"Jogging",
+	"Swimming",
+	"International cinema",
+	"Reading motivational self-help books",
+	"Visiting their grandparents",
+	"Playing puzzle games on Facebook",
+	"Going to the beach with their dog",
+	"Loves Adam Sandler movies",
+	"Having a bev",
+	"Watching the footy",
+	"Bants with the mates",
+	"Talking about themselves",
 
 ];
 
 var randList6 = [
-	"xxx",
-	"xxx",
-	"xxx"
+	"Aries",
+	"Taurus",
+	"Gemini",
+	"Cancer",
+	"Leo",
+	"Virgo",
+	"Libra",
+	"Scorpio",
+	"Sagittarius",
+	"Capricorn",
+	"Aquarius",
+	"Pisces"
 ];
 
 var randList7 = [
-	"xxx",
-	"xxx",
-	"xxx"
+	"0%",
+	"22%",
+	"35%",
+	"44%",
+	"2%",
+	"10%",
+	"7%",
+	"9%",
+	"1%",
+	"3%",
+	"4%",
+	"0.999%"
 ];
 
 
