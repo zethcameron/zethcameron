@@ -20,6 +20,7 @@ a:hover {
 h1 {
 	font-size:35px;
 	margin-bottom:20px;
+	font-weight: bold;
 }
 
 h2 {
@@ -45,7 +46,7 @@ i {
 }
 
 .button {
-	background:skyblue;
+	background:blue;
 	border: 0px;
 
 	font-size:20px;
