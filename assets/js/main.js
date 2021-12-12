@@ -35,7 +35,7 @@ var randList2 = [
 	"the wine enthusiast",
 	"the one who's always travelling",
 	"the liar",
-	"the one who also hates the system"
+	"the one who also hates the system",
 	"the disability advocate"
 ];
 
