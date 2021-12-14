@@ -22,6 +22,7 @@ a:hover {
 h1 {
 	font-size:35px;
 	font-weight: bold;
+	margin-top: 10;
 }
 
 h2 {
@@ -34,7 +35,7 @@ h3 {
 }
 
 p {
-	margin-bottom:1em;
+	margin-bottom:4em;
 }
 
 i {
