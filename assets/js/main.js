@@ -16,7 +16,13 @@ var randList1 = [
 	"Max",
 	"Lexi",
 	"Emily",
-	"Caroline"
+	"Caroline",
+	"Warren",
+	"Lachie",
+	"Megan",
+	"John",
+	"Chloe",
+	"Sarah"
 ];
 
 var randList2 = [
@@ -24,6 +30,7 @@ var randList2 = [
 	"the business graduate",
 	"the active listener",
 	"the one from marketing",
+	"The Bachelor/ette enthusiast",
 	"the nice one",
 	"the rat bastard",
 	"the busy mum",
@@ -50,6 +57,8 @@ var randList2 = [
 
 var randList3 = [
 	"hates you",
+	"calling you exactly 30 minutes before or 180 minutes after your scheduled appointment time",
+	"suspending your jobseeker payment",
 	"thinks you're quirky",
 	"good at finding jobs you are overqualified for",
 	"good at finding jobs you are underqualified for",
