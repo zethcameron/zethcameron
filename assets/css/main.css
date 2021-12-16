@@ -35,8 +35,9 @@ h3 {
 }
 
 p {
-	margin-bottom:6em;
-	margin-top: 6em;
+	margin-bottom:6px;
+	margin-top: 6px;
+	padding: 35px;
 }
 
 i {
