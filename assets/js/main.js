@@ -22,7 +22,10 @@ var randList1 = [
 	"Megan",
 	"John",
 	"Chloe",
-	"Sarah"
+	"Sarah",
+	"Daniel",
+	"Tom",
+	"Claire"
 ];
 
 var randList2 = [
@@ -52,12 +55,16 @@ var randList2 = [
 	"the one who's always travelling",
 	"the liar",
 	"the one who also hates the system",
-	"the disability advocate"
+	"the disability advocate",
+	"old mate",
+	"a pest",
+	"the motivational speaker",
+	"the chiller"
 ];
 
 var randList3 = [
 	"hates you",
-	"calling you exactly 30 minutes before or 180 minutes after your scheduled appointment time",
+	"calling you 30 minutes before your scheduled appointment time",
 	"suspending your jobseeker payment",
 	"thinks you're quirky",
 	"good at finding jobs you are overqualified for",
@@ -92,6 +99,7 @@ var randList3 = [
 
 var randList4 = [
 	"whack",
+	"fake",
 	"totally off",
 	"just not very nice",
 	"thinks they can improve the system from within",
@@ -113,7 +121,7 @@ var randList4 = [
 	"occasionally helpful",
 	"thinks they have your best interests at heart",
 	"would like to help you but is ill-equipped to do so",
-	"you forget they exist until they call each fortnight",
+	"forgettable (until they call each fortnight)",
 	"probably into astrology",
 	"bit of a snob",
 	"I wouldn't talk to this person in a bar",
@@ -129,23 +137,25 @@ var randList4 = [
 	"just okay",
 	"not THAT bad",
 	"could be a lot worse",
-	"they're kinda cool! But this arrangement still sucks"
+	"they're kinda cool! But this arrangement still sucks",
+	"maybe in another life you could be friends"
 
 ];
 
 var randList5 = [
 	"bouldering",
+	"networking",
 	"going out on Smith Street",
 	"watching the tennis",
 	"rug-tufting",
 	"teaching yoga classes",
 	"riding their bike to work",
 	"making bread",
-	"telling you about their friends in similar fields of work",
+	"telling you about friends in similar fields of work",
 	"jogging",
 	"swimming",
 	"international cinema",
-	"reading (and recommending) motivational self-help books",
+	"recommending motivational self-help books",
 	"loves true crime podcasts",
 	"playing puzzle games on Facebook",
 	"going to the beach with their dog",
@@ -172,7 +182,9 @@ var randList5 = [
 	"eating spicy food",
 	"selling second-hand furniture on Facebook Marketplace",
 	"going to IKEA",
-	"online shopping"
+	"online shopping",
+	"camping",
+	"crossfit"
 
 
 ];
