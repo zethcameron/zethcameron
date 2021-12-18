@@ -64,7 +64,7 @@ var randList2 = [
 
 var randList3 = [
 	"hates you",
-	"calling you 30 minutes before your scheduled appointment time",
+	"calling you 30 minutes before your appointment time",
 	"suspending your jobseeker payment",
 	"thinks you're quirky",
 	"good at finding jobs you are overqualified for",
